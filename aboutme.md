@@ -1,16 +1,47 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: DevOps Engineer & AI Engineering Graduate Student
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Waleed Abu-Nafiseh
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Contact:** waleedabunafiseh@gmail.com  | [LinkedIn](https://linkedin.com/in/waleedabunafiseh)
 
-What else do you need?
+---
 
-### My story
+## Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**M.Sc. Artificial Intelligence Engineering** (DAAD Scholarship)  
+*Universität Passau* | Oct 2022 – Mar 2026 | Passau, Germany
+
+**Bachelor of Science in Computer Science** w/ Minor in German Language  
+*Birzeit University* | Aug 2016 – June 2021 | Birzeit, Palestine
+
+---
+
+## Professional Experience
+
+**DevOps Engineer** | *CEPRES GmbH* | Mar 2022 – Present | Munich, Germany
+
+**Graduate Student Research Assistant** | *CoRNLP – Universität Passau* | May 2024 – Nov 2024 | Passau, Germany
+
+**Software Development Engineer / R&D Engineer** | *Freightos Group* | Nov 2021 – Mar 2022 | Remote
+
+**Software Developer (Android)** | *AXSOS AG* | Mar 2018 – Nov 2021 | Ramallah, Palestine
+
+---
+
+## Technical Skills
+
+**Programming:** Java, Python, Bash  
+**Cloud:** AWS, Azure, Google Cloud, Docker, Kubernetes  
+**DevOps:** Jenkins, Azure DevOps, Ansible, CI/CD, Monitoring tools  
+**Backend:** Spring Boot, Camunda, Kafka  
+**Other:** Linux, MVVM, MySQL, Hibernate
+
+---
+
+## Languages
+
+**English:** Fluent | **German:** Fluent | **Arabic:** Native
