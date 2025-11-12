@@ -4,44 +4,62 @@ title: About me
 subtitle: DevOps Engineer & AI Engineering Graduate Student
 ---
 
-## Waleed Abu-Nafiseh
+# Waleed Abu-Nafiseh
 
-**Contact:** waleedabunafiseh@gmail.com  | [LinkedIn](https://linkedin.com/in/waleedabunafiseh)
+**Contact:** waleedabunafiseh@gmail.com 
+**LinkedIn:** [waleedabunafiseh](https://linkedin.com/in/waleedabunafiseh)
 
 ---
 
 ## Education
 
-**M.Sc. Artificial Intelligence Engineering** (DAAD Scholarship)  
-*Universität Passau* | Oct 2022 – Mar 2026 | Passau, Germany
+### M.Sc. Artificial Intelligence Engineering
+**Universität Passau** | *DAAD Scholarship*  
+**Duration:** Oct 2022 – Mar 2026 | **Location:** Passau, Germany
 
-**Bachelor of Science in Computer Science** w/ Minor in German Language  
-*Birzeit University* | Aug 2016 – June 2021 | Birzeit, Palestine
+### Bachelor of Science in Computer Science
+**Birzeit University** | *Minor in German Language*  
+**Duration:** Aug 2016 – June 2021 | **Location:** Birzeit, Palestine
 
 ---
 
 ## Professional Experience
 
-**DevOps Engineer** | *CEPRES GmbH* | Mar 2022 – Present | Munich, Germany
+### DevOps Engineer
+**CEPRES GmbH** | Mar 2022 – Present | Munich, Germany
 
-**Graduate Student Research Assistant** | *CoRNLP – Universität Passau* | May 2024 – Nov 2024 | Passau, Germany
+### Graduate Student Research Assistant  
+**CoRNLP – Universität Passau** | May 2024 – Nov 2024 | Passau, Germany
 
-**Software Development Engineer / R&D Engineer** | *Freightos Group* | Nov 2021 – Mar 2022 | Remote
+### Software Development Engineer / R&D Engineer
+**Freightos Group** | Nov 2021 – Mar 2022 | Remote
 
-**Software Developer (Android)** | *AXSOS AG* | Mar 2018 – Nov 2021 | Ramallah, Palestine
+### Software Developer (Android)
+**AXSOS AG** | Mar 2018 – Nov 2021 | Ramallah, Palestine
 
 ---
 
 ## Technical Skills
 
-**Programming:** Java, Python, Bash  
-**Cloud:** AWS, Azure, Google Cloud, Docker, Kubernetes  
-**DevOps:** Jenkins, Azure DevOps, Ansible, CI/CD, Monitoring tools  
-**Backend:** Spring Boot, Camunda, Kafka  
-**Other:** Linux, MVVM, MySQL, Hibernate
+### Programming Languages
+Java, Python, Bash
+
+### Cloud Platforms
+AWS, Azure, Google Cloud, Docker, Kubernetes
+
+### DevOps Tools
+Jenkins, Azure DevOps, Ansible, CI/CD, Monitoring Tools
+
+### Backend Technologies
+Spring Boot, Camunda, Kafka
+
+### Other Technologies
+Linux, MVVM, MySQL, Hibernate
 
 ---
 
 ## Languages
 
-**English:** Fluent | **German:** Fluent | **Arabic:** Native
+- **Arabic:** Native
+- **English:** Fluent  
+- **German:** Fluent
